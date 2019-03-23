@@ -1,2 +1,2 @@
 # PaPer_DJ-BEZELS-Overlays-RETROARCH
-PaPer_DJ-Bezels-Overlays-RETROARCH
+Selected compilation of Bezels/Overlays for RETROARCH
